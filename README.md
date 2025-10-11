@@ -7,7 +7,7 @@ Under the guidance of my supervisor, Dong Shuaishuai, I have conducted a prelimi
 
 ### 训练
 - 分别才用yolo v5 v8 v11家族进行训练
-- 本机笔记本4060训练，借用了某服务商的CPU进行加速。
+- 本机笔记本4060训练，借用了某服务商的GPU进行加速。
 - 大概可以接受训练速度，若增加样本需要更大的算法需求。
 
 ### 初步直接训练结果
