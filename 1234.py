@@ -1,25 +1,12 @@
 '''
-Author: error: error: git config user.name & please set dead value or install git && error: git config user.email & please set dead value or install git & please set dead value or install git
+Author: shiming422 1611813195@qq.com
 Date: 2025-10-10 18:16:44
-LastEditors: error: error: git config user.name & please set dead value or install git && error: git config user.email & please set dead value or install git & please set dead value or install git
-LastEditTime: 2025-10-10 18:16:54
+LastEditors: shiming422 1611813195@qq.com
+LastEditTime: 2025-10-11 13:24:48
 FilePath: \git_demo\Marine-Organism-identification\1234.py
 Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
 '''
-from PIL import Image, ImageDraw, ImageFont
 
-# 车牌图片尺寸
-plate_width = 440
-plate_height = 140
-
-# 车牌背景颜色（蓝色）
-background_color = (0, 51, 153)  # RGB 值
-
-# 车牌文字颜色（白色）
-text_color = (255, 255, 255)  # RGB 值
-
-def draw_license_plate(license_plate):
-    # 创建空白图片
     image = Image.new("RGB", (plate_width, plate_height), background_color)
     draw = ImageDraw.Draw(image)
 
