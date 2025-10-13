@@ -1,0 +1,197 @@
+AA_half/20250818152141607.tif AA_half_txt/20250818152141607.txt
+AA_half/20241203210143820.tif AA_half_txt/20241203210143820.txt
+AA_half/20241203202844947.tif AA_half_txt/20241203202844947.txt
+AA_half/20241203203856659.tif AA_half_txt/20241203203856659.txt
+AA_half/20250818152010622.tif AA_half_txt/20250818152010622.txt
+AA_half/20250818150742798.tif AA_half_txt/20250818150742798.txt
+AA_half/20250512210450681.tif AA_half_txt/20250512210450681.txt
+AA_half/20250818153938481.tif AA_half_txt/20250818153938481.txt
+AA_half/20241203195920663.tif AA_half_txt/20241203195920663.txt
+AA_half/20250818151835493.tif AA_half_txt/20250818151835493.txt
+AA_half/20241203210952709.tif AA_half_txt/20241203210952709.txt
+AA_half/20250818145014416.tif AA_half_txt/20250818145014416.txt
+AA_half/0004.tif AA_half_txt/0004.txt
+AA_half/20250818152000951.tif AA_half_txt/20250818152000951.txt
+AA_half/20250818150521470.tif AA_half_txt/20250818150521470.txt
+AA_half/20250818153838508.tif AA_half_txt/20250818153838508.txt
+AA_half/20250818151039018.tif AA_half_txt/20250818151039018.txt
+AA_half/20241203210957594.tif AA_half_txt/20241203210957594.txt
+AA_half/20250818150628363.tif AA_half_txt/20250818150628363.txt
+AA_half/20250818144917123.tif AA_half_txt/20250818144917123.txt
+AA_half/20250818154034729.tif AA_half_txt/20250818154034729.txt
+AA_half/20241203202400876.tif AA_half_txt/20241203202400876.txt
+AA_half/20250818153744568.tif AA_half_txt/20250818153744568.txt
+AA_half/20250818150842107.tif AA_half_txt/20250818150842107.txt
+AA_half/20250818152021284.tif AA_half_txt/20250818152021284.txt
+AA_half/20241203205542352.tif AA_half_txt/20241203205542352.txt
+AA_half/20250512210513929.tif AA_half_txt/20250512210513929.txt
+AA_half/20250818153858547.tif AA_half_txt/20250818153858547.txt
+AA_half/20250818153714849.tif AA_half_txt/20250818153714849.txt
+AA_half/20250818150826026.tif AA_half_txt/20250818150826026.txt
+AA_half/20241203202338943.tif AA_half_txt/20241203202338943.txt
+AA_half/20250512210340855.tif AA_half_txt/20250512210340855.txt
+AA_half/20250818152709648.tif AA_half_txt/20250818152709648.txt
+AA_half/20250818153752670.tif AA_half_txt/20250818153752670.txt
+AA_half/20250818144928226.tif AA_half_txt/20250818144928226.txt
+AA_half/20250512204500280.tif AA_half_txt/20250512204500280.txt
+AA_half/20250818150619744.tif AA_half_txt/20250818150619744.txt
+AA_half/20250818152338541.tif AA_half_txt/20250818152338541.txt
+AA_half/20250818152258119.tif AA_half_txt/20250818152258119.txt
+AA_half/20250818151049580.tif AA_half_txt/20250818151049580.txt
+AA_half/20250818152033499.tif AA_half_txt/20250818152033499.txt
+AA_half/20250818152648407.tif AA_half_txt/20250818152648407.txt
+AA_half/20250818145132415.tif AA_half_txt/20250818145132415.txt
+AA_half/20250818151852059.tif AA_half_txt/20250818151852059.txt
+AA_half/20241203202517719.tif AA_half_txt/20241203202517719.txt
+AA_half/20241203202242065.tif AA_half_txt/20241203202242065.txt
+AA_half/20250818151015215.tif AA_half_txt/20250818151015215.txt
+AA_half/20250818151754579.tif AA_half_txt/20250818151754579.txt
+AA_half/20250512204340928.tif AA_half_txt/20250512204340928.txt
+AA_half/20250818150719105.tif AA_half_txt/20250818150719105.txt
+AA_half/20250818153723908.tif AA_half_txt/20250818153723908.txt
+AA_half/20250818150945479.tif AA_half_txt/20250818150945479.txt
+AA_half/20250818145327799.tif AA_half_txt/20250818145327799.txt
+AA_half/20250818150924759.tif AA_half_txt/20250818150924759.txt
+AA_half/20241203201400754.tif AA_half_txt/20241203201400754.txt
+AA_half/0019.tif AA_half_txt/0019.txt
+AA_half/20250818153641297.tif AA_half_txt/20250818153641297.txt
+AA_half/20250818145050534.tif AA_half_txt/20250818145050534.txt
+AA_half/20250818154024915.tif AA_half_txt/20250818154024915.txt
+AA_half/20241203195948029.tif AA_half_txt/20241203195948029.txt
+AA_half/20250818145147527.tif AA_half_txt/20250818145147527.txt
+AA_half/20250818145301518.tif AA_half_txt/20250818145301518.txt
+AA_half/20250818151723736.tif AA_half_txt/20250818151723736.txt
+AA_half/20250818152318589.tif AA_half_txt/20250818152318589.txt
+AA_half/20250818152128334.tif AA_half_txt/20250818152128334.txt
+AA_half/20250818150815059.tif AA_half_txt/20250818150815059.txt
+AA_half/20250818145313017.tif AA_half_txt/20250818145313017.txt
+AA_half/20250512213453841.tif AA_half_txt/20250512213453841.txt
+AA_half/20250818152238118.tif AA_half_txt/20250818152238118.txt
+AA_half/20250818152051725.tif AA_half_txt/20250818152051725.txt
+AA_half/20250818145227016.tif AA_half_txt/20250818145227016.txt
+AA_half/20250818145249981.tif AA_half_txt/20250818145249981.txt
+AA_half/20241203194928217.tif AA_half_txt/20241203194928217.txt
+AA_half/20250818151922277.tif AA_half_txt/20250818151922277.txt
+AA_half/20250818152201352.tif AA_half_txt/20250818152201352.txt
+AA_half/20250818151806730.tif AA_half_txt/20250818151806730.txt
+AA_half/20241203200102844.tif AA_half_txt/20241203200102844.txt
+AA_half/20250512213425364.tif AA_half_txt/20250512213425364.txt
+AA_half/20250818153909770.tif AA_half_txt/20250818153909770.txt
+AA_half/20250818150607121.tif AA_half_txt/20250818150607121.txt
+AA_half/20241203194816211.tif AA_half_txt/20241203194816211.txt
+AA_half/20250818152211733.tif AA_half_txt/20250818152211733.txt
+AA_half/20250818151028069.tif AA_half_txt/20250818151028069.txt
+AA_half/20250512205515853.tif AA_half_txt/20250512205515853.txt
+AA_half/20250818151745991.tif AA_half_txt/20250818151745991.txt
+AA_half/20241203202537688.tif AA_half_txt/20241203202537688.txt
+AA_half/20250818150508275.tif AA_half_txt/20250818150508275.txt
+AA_half/20250818151949115.tif AA_half_txt/20250818151949115.txt
+AA_half/20250818145239881.tif AA_half_txt/20250818145239881.txt
+AA_half/20250818153650548.tif AA_half_txt/20250818153650548.txt
+AA_half/20250818150531170.tif AA_half_txt/20250818150531170.txt
+AA_half/20250818151937086.tif AA_half_txt/20250818151937086.txt
+AA_half/20250818152402933.tif AA_half_txt/20250818152402933.txt
+AA_half/20250818145340877.tif AA_half_txt/20250818145340877.txt
+AA_half/20250818152349112.tif AA_half_txt/20250818152349112.txt
+AA_half/20250818150803407.tif AA_half_txt/20250818150803407.txt
+AA_half/20250818154053163.tif AA_half_txt/20250818154053163.txt
+AA_half/20250818152658424.tif AA_half_txt/20250818152658424.txt
+AA_half/20241203210258085.tif AA_half_txt/20241203210258085.txt
+AA_half/20250818150647439.tif AA_half_txt/20250818150647439.txt
+AA_half/20250818153658323.tif AA_half_txt/20250818153658323.txt
+AA_half/0007.tif AA_half_txt/0007.txt
+AA_half/0003.tif AA_half_txt/0003.txt
+AA_half/20250818145107895.tif AA_half_txt/20250818145107895.txt
+AA_half/20250818150853651.tif AA_half_txt/20250818150853651.txt
+AA_half/20250818153808131.tif AA_half_txt/20250818153808131.txt
+AA_half/20250818152328956.tif AA_half_txt/20250818152328956.txt
+AA_half/20250512204423081.tif AA_half_txt/20250512204423081.txt
+AA_half/20250818154042815.tif AA_half_txt/20250818154042815.txt
+AA_half/20250818151113072.tif AA_half_txt/20250818151113072.txt
+AA_half/20250512210300601.tif AA_half_txt/20250512210300601.txt
+AA_half/20250512204438701.tif AA_half_txt/20250512204438701.txt
+AA_half/20250818150541772.tif AA_half_txt/20250818150541772.txt
+AA_half/20241203210947035.tif AA_half_txt/20241203210947035.txt
+AA_half/20250818153926928.tif AA_half_txt/20250818153926928.txt
+AA_half/20250818153820961.tif AA_half_txt/20250818153820961.txt
+AA_half/20250818150730192.tif AA_half_txt/20250818150730192.txt
+AA_half/20250512210125090.tif AA_half_txt/20250512210125090.txt
+AA_half/20250512205544769.tif AA_half_txt/20250512205544769.txt
+AA_half/20250818153706766.tif AA_half_txt/20250818153706766.txt
+AA_half/20241203195249129.tif AA_half_txt/20241203195249129.txt
+AA_half/20250818152413581.tif AA_half_txt/20250818152413581.txt
+AA_half/20250818151819917.tif AA_half_txt/20250818151819917.txt
+AA_half/20250818153849003.tif AA_half_txt/20250818153849003.txt
+AA_half/20241203210137698.tif AA_half_txt/20241203210137698.txt
+AA_half/20250512205559978.tif AA_half_txt/20250512205559978.txt
+AA_half/20241203201342686.tif AA_half_txt/20241203201342686.txt
+AA_half/20250818152226229.tif AA_half_txt/20250818152226229.txt
+AA_half/20250818145004433.tif AA_half_txt/20250818145004433.txt
+AA_half/20250512205504956.tif AA_half_txt/20250512205504956.txt
+AA_half/20250512204515968.tif AA_half_txt/20250512204515968.txt
+QS/three (88).tif QS_txt/three (88).txt
+QS/three (43).tif QS_txt/three (43).txt
+QS/three (63).tif QS_txt/three (63).txt
+QS/three (98).tif QS_txt/three (98).txt
+QS/three (57).tif QS_txt/three (57).txt
+QS/three (84).tif QS_txt/three (84).txt
+QS/three (47).tif QS_txt/three (47).txt
+QS/three (73).tif QS_txt/three (73).txt
+QS/three (28).tif QS_txt/three (28).txt
+QS/three (82).tif QS_txt/three (82).txt
+QS/three (100).tif QS_txt/three (100).txt
+QS/three (60).tif QS_txt/three (60).txt
+QS/three (87).tif QS_txt/three (87).txt
+QS/three (86).tif QS_txt/three (86).txt
+QS/three (102).tif QS_txt/three (102).txt
+QS/three (37).tif QS_txt/three (37).txt
+QS/three (56).tif QS_txt/three (56).txt
+QS/three (65).tif QS_txt/three (65).txt
+QS/three (55).tif QS_txt/three (55).txt
+QS/three (48).tif QS_txt/three (48).txt
+QS/three (42).tif QS_txt/three (42).txt
+QS/three (4).tif QS_txt/three (4).txt
+QS/three (83).tif QS_txt/three (83).txt
+QS/three (62).tif QS_txt/three (62).txt
+QS/three (76).tif QS_txt/three (76).txt
+QS/three (101).tif QS_txt/three (101).txt
+QS/three (34).tif QS_txt/three (34).txt
+QS/three (31).tif QS_txt/three (31).txt
+QS/three (68).tif QS_txt/three (68).txt
+QS/three (66).tif QS_txt/three (66).txt
+QS/three (29).tif QS_txt/three (29).txt
+QS/three (35).tif QS_txt/three (35).txt
+QS/three (97).tif QS_txt/three (97).txt
+QS/three (93).tif QS_txt/three (93).txt
+QS/three (92).tif QS_txt/three (92).txt
+QS/three (90).tif QS_txt/three (90).txt
+QS/three (51).tif QS_txt/three (51).txt
+QS/three (45).tif QS_txt/three (45).txt
+QS/three (50).tif QS_txt/three (50).txt
+QS/three (54).tif QS_txt/three (54).txt
+QS/three (85).tif QS_txt/three (85).txt
+QS/three (46).tif QS_txt/three (46).txt
+QS/three (49).tif QS_txt/three (49).txt
+QS/three (30).tif QS_txt/three (30).txt
+QS/three (58).tif QS_txt/three (58).txt
+QS/three (44).tif QS_txt/three (44).txt
+QS/three (89).tif QS_txt/three (89).txt
+QS/three (1).tif QS_txt/three (1).txt
+QS/three (40).tif QS_txt/three (40).txt
+QS/three (78).tif QS_txt/three (78).txt
+QS/three (3).tif QS_txt/three (3).txt
+QS/three (5).tif QS_txt/three (5).txt
+QS/three (71).tif QS_txt/three (71).txt
+QS/three (80).tif QS_txt/three (80).txt
+QS/three (69).tif QS_txt/three (69).txt
+QS/three (95).tif QS_txt/three (95).txt
+QS/three (32).tif QS_txt/three (32).txt
+QS/three (99).tif QS_txt/three (99).txt
+QS/three (77).tif QS_txt/three (77).txt
+QS/three (6).tif QS_txt/three (6).txt
+QS/three (91).tif QS_txt/three (91).txt
+QS/three (79).tif QS_txt/three (79).txt
+QS/three (103).tif QS_txt/three (103).txt
+QS/three (33).tif QS_txt/three (33).txt
+QS/three (64).tif QS_txt/three (64).txt
+QS/three (96).tif QS_txt/three (96).txt
