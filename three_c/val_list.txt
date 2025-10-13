@@ -47,3 +47,10 @@ QS/three (94).tif QS_txt/three (94).txt
 QS/three (70).tif QS_txt/three (70).txt
 QS/three (67).tif QS_txt/three (67).txt
 QS/three (75).tif QS_txt/three (75).txt
+T/data (34)_boxed.jpg T_txt/data (34)_boxed.txt
+T/data (2)_boxed.jpg T_txt/data (2)_boxed.txt
+T/data (14)_boxed.jpg T_txt/data (14)_boxed.txt
+T/data (16)_boxed.jpg T_txt/data (16)_boxed.txt
+T/data (17)_boxed.jpg T_txt/data (17)_boxed.txt
+T/data (31)_boxed.jpg T_txt/data (31)_boxed.txt
+T/data (22)_boxed.jpg T_txt/data (22)_boxed.txt
