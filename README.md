@@ -1,3 +1,11 @@
+<!--
+ * @Author: shiming422 1611813195@qq.com
+ * @Date: 2025-10-10 18:02:41
+ * @LastEditors: shiming422 1611813195@qq.com
+ * @LastEditTime: 2025-10-15 12:45:29
+ * @FilePath: \git_demo\Marine-Organism-identification\README.md
+ * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
+-->
 # Marine-Organism-identification
 
 Under the guidance of my supervisor, Dong Shuaishuai, I have conducted a preliminary study on marine organism identification.
@@ -7,7 +15,7 @@ Under the guidance of my supervisor, Dong Shuaishuai, I have conducted a prelimi
 
 ### 训练
 - 分别才用yolo v5 v8 v11家族进行训练
-- 本机笔记本4060训练，借用了某服务商的GPU进行加速。
+- 使用笔记本的RTX4060显卡进行训练，借用了某服务商的GPU进行加速。
 - 大概可以接受训练速度，若增加样本需要更大的算法需求。
 
 ### 初步直接训练结果
